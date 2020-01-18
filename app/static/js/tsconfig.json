@@ -9,7 +9,8 @@
         "strict": true,
         "noImplicitReturns": true,
         "rootDir": "src",
-        "outDir": "dist"
+        "outDir": "dist",
+        "allowSyntheticDefaultImports": true
     },
     "include": ["**/*.ts", "**/*.tsx"],
     "exclude": ["node_modules"]
